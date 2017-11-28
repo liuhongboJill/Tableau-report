@@ -1,10 +1,10 @@
 # Tableau Report
 Group 5: 
-Hangman Jiang
-Hongbo Liu
-Chengquan Guan
-Weihang Wen
-Yinlu Wu
+#Hangman Jiang
+#Hongbo Liu
+#Chengquan Guan
+#Weihang Wen
+#Yinlu Wu
 
 Our tableau workbook is about the analysis of storm events in the US.
 Dataset: US storm information since 1950
