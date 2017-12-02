@@ -25,3 +25,8 @@ Reference:
 https://www.ncdc.noaa.gov/stormevents/ftp.jsp 
 
 ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+
+Tableau workbook (Online Public):
+
+https://public.tableau.com/profile/agnes8748#!/vizhome/Stormeventsanalysis/Story1
+Please explore other two stories in metadata.
