@@ -1,5 +1,4 @@
-# Tableau Report
-Storm Event Analysis
+# Tableau Report---Storm Event Analysis
 
 Tableau workbook (Online Public):
 
@@ -8,7 +7,6 @@ https://public.tableau.com/profile/agnes8748#!/vizhome/Stormeventsanalysis/Story
 Please explore other two stories in metadata.
 
 George Washington University
-
 DNSC 6216 Business Analytics Skills Workshop
 
 Group 5: Hangman Jiang/ Hongbo Liu/ Chengquan Guan/ Weihang Wen/ Yinlu Wu
